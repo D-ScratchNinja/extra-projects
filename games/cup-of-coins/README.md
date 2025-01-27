@@ -1,6 +1,6 @@
 # Cup of Coins `v0.5.0`
 
-## [Download]()
+## [Download the game files](https://github.com/D-ScratchNinja/extra-projects/blob/packed/games/cup-of-coins/Cup%20of%20Coins.sb3?raw=true) then play with [TurboWarp](https://turbowarp.org).
 
 ## Description
 
@@ -12,10 +12,8 @@ Be strategic — the cup can only hold so much. If a coin falls out of the cup, 
 
 ## Gameplay
 
-<table>
-  <tr><th>Controls</th><td>Mouse, touch screen</td></tr>
-  <tr><th>Number of players</th><td>1</td></tr>
-</table>
+- **Controls**: Mouse, touch screen
+- **Number of players**: 1
 
 ## About
 
