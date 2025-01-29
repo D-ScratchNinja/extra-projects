@@ -1,6 +1,6 @@
 # Cup of Coins `v0.5.0`
 
-## [Download the game files](https://github.com/D-ScratchNinja/extra-projects/blob/packed/games/cup-of-coins/Cup%20of%20Coins.sb3?raw=true) then play with [TurboWarp](https://turbowarp.org).
+## [Download the game files](https://github.com/D-ScratchNinja/extra-projects/raw/refs/heads/packed/games/cup-of-coins/Cup%20of%20Coins.sb3) then play with [TurboWarp](https://turbowarp.org).
 
 ## Description
 
