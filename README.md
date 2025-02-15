@@ -1,3 +1,6 @@
+> [!NOTE]
+> **This repository is a brand new project.** There are still some things I want to refine, but for now, enjoy what I've got!
+
 # D-ScratchNinja's Extras
 
 Additional games, utilities, and other projects that take advantage of Scratch mods.
