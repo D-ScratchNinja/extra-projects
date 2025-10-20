@@ -25,4 +25,4 @@ Be strategic — the cup can only hold so much. If a coin falls out of the cup, 
 
 ### Licenses
 
-(Ͻ) 2025 DNin <https://github.com/DNin01>, <https://scratch.mit.edu/users/D-ScratchNinja>. Available under a [CC-BY-SA 4.0 license](/LICENSE).
+(Ͻ) 2025 DNin <https://github.com/DNin01>, <https://scratch.mit.edu/users/D-ScratchNinja>. Available under a [CC BY-SA 2.0 or 4.0 license](/README.md#license-terms).

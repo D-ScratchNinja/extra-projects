@@ -7,6 +7,6 @@ Additional games, utilities, and other projects that take advantage of Scratch m
 
 These Scratch projects utilize features of [TurboWarp](https://turbowarp.org), a modification of Scratch, so I've shared this selection of projects here instead of on Scratch.
 
-## License
+## License terms
 
-[Creative Commons Attribution-ShareAlike 4.0](LICENSE) unless otherwise stated.
+[Creative Commons Attribution-ShareAlike 2.0](LICENSE-CC-BY-SA-2) or [Creative Commons Attribution-ShareAlike 4.0](LICENSE), unless otherwise stated.
